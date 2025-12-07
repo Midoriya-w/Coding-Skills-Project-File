@@ -1,6 +1,6 @@
 # Student Record Management System with RBAC
 
-A robust Command Line Interface (CLI) based Student Record Management System developed in **C++**. This project implements **Role-Based Access Control (RBAC)** to manage permissions for different types of users (Admin, Staff, Student, Guest).
+A robust Command Line Interface (CLI) based Student Record Management System developed in **C**. This project implements **Role-Based Access Control (RBAC)** to manage permissions for different types of users (Admin, Staff, Student, Guest).
 
 ## 🚀 Features
 
@@ -22,7 +22,7 @@ A robust Command Line Interface (CLI) based Student Record Management System dev
 ## 🛠️ Tech Stack
 
 - **Language:** C
-- **File Handling:** Standard I/O (`iostream`)
+- **File Handling:** Standard I/O (`stdio.h`)
 - **String Manipulation:** `string`
 
 ## ⚙️ Installation & Setup
